@@ -28,3 +28,4 @@ use the editor.
   own key and store it in Secrets.
 - **Secrets.** Lovable manages them. Do not put secret values in the repo.
 <!-- LOVABLE:END -->
+- The app is a design-only preview of the Aankh/TradeOS Next.js source: pages use sample data from src/lib/demo-data.ts and the shared AppShell, so real data can be wired in later without changing layouts.
